@@ -51,6 +51,8 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rubencamus&" alt="rubencamus" /></p>
+![](https://github-readme-stats.vercel.app/api?username=RubenCamus&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=RubenCamus&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RubenCamus&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ###
