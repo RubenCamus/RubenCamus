@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm Ruben from Spain<br><br>- 🔭 I’m working as a Freelance.<br>- 📚 I'm currently learning JavaScript, TypeScript.<br>- ⚡ In my free time I 3D print cool stuff.</p>
+<p align="left">I'm Ruben from Spain<br><br>- 🔭 I’m working as a Freelance and my own projects.<br>- 📚 I'm currently learning JavaScript, TypeScript.<br>- ⚡ In my free time I 3D print cool stuff.</p>
 
 ###
 
