@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm Ruben from Spain<br><br>- 🔭 I’m working as a Freelance and my own projects.<br>- 📚 I'm currently learning JavaScript, TypeScript.<br>- ⚡ In my free time I 3D print cool stuff.</p>
+<p align="left">I'm Ruben<br><br>- I’m working as a freelance and personal projects.<br>- I'm currently learning Advanced web development.<br>- During my free time I 3D print cool stuff.</p>
 
 ###
 
@@ -48,8 +48,6 @@
 </div>
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=RubenCamus&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=RubenCamus&theme=vue-dark&hide_border=false)<br/>
