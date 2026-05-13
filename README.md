@@ -1,8 +1,6 @@
 <div align="center">
   <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhvazNwZmN2and4ODQwbnk2Z3B3OHBkMHY2djV1eXlvZWVkMm1iayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2qzHVSVfPcBlC/giphy.gif"  />
 </div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rubencamus&label=Profile%20views&color=0e75b6&style=flat" alt="rubencamus" /> </p>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/ruben-camus-campos-4a1515254/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /> <a/>
 </div>
@@ -17,7 +15,7 @@
 
 ###
 
-<p align="left">I'm Ruben<br><br>- I’m working as a freelance and personal projects.<br>- I'm currently learning Advanced web development.<br>- During my free time I 3D print cool stuff.</p>
+<p align="left">I'm Ruben<br><br>- I’m working in personal projects.<br>- I'm currently learning Advanced web development.<br>- During my free time I 3D print cool stuff.</p>
 
 ###
 
@@ -47,10 +45,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>
 
-###
-
-![](https://github-readme-stats.vercel.app/api?username=RubenCamus&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RubenCamus&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RubenCamus&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-###
