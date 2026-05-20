@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">I'm Ruben<br><br>- I’m working in personal projects.<br>- I'm currently learning Advanced web development.<br>- During my free time I 3D print cool stuff.</p>
+<p align="left">I'm Ruben right now I am working in personal projects learning new technologies and improving my foundations. I have created some personal projects like: <br><br> - Wordle Clone (Javascript,Node.js,Express) <br><br> - Portfolio & Blog (Javascript,Astro) <br><br> - Ecommerce frontend (Typescript, Angular) <br><br> During my free time I love to 3D print cool stuff and make my life size replicas.</p>
 
 ###
 
