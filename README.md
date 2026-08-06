@@ -7,15 +7,15 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey there</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">About Me</h3>
 
 ###
 
-<p align="left">I'm Ruben right now I am working in personal projects learning new technologies and improving my foundations. I have created some personal projects like: <br><br> 
+<p align="left">I'm Ruben right now I am working on personal projects, learning new technologies and improving my foundations. I have created some personal projects like: <br><br> 
   - Wordle Clone <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /> 
   <img width="12" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" /> 
